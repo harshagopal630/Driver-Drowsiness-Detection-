@@ -1,1 +1,13 @@
 https://www.kaggle.com/datasets/prasadvpatil/mrl-dataset
+
+Structure of Dataset is given below;
+Driver-Drowsiness-Detection/
+│
+├── dataset/
+│   ├── train/
+│   │   ├── alert/
+│   │   └── drowsy/
+│   │
+│   └── test/
+│       ├── alert/
+│       └── drowsy/
